@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // const API_URL = "http://localhost:3000";
-const API_URL = "https://resume-generator-d1hp.onrender.com";
+const API_URL = "https://resume-generator-hi25.onrender.com";
 const api = axios.create({
   baseURL: API_URL,
   withCredentials: true,
